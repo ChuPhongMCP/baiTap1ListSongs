@@ -5,8 +5,7 @@
     "name": "Tiếng Hát Chim Đa Đa",
     "band": "Như Quỳnh ",
     "path": "static/mp3/tiengHatChimDaDa.mp3",
-    "isLike": true,
-    "time": "4:19"
+    "isLike": true
   },
   {
     "num": 2,
@@ -14,8 +13,7 @@
     "name": "Lính Xa Nhà",
     "band": "Phương Ý",
     "path": "static/mp3/linhXaNha.mp3",
-    "isLike": false,
-    "time": "4:38"
+    "isLike": false
   },
   {
     "num": 3,
@@ -23,8 +21,7 @@
     "name": "Trộm Nhìn Nhau",
     "band": "Hoài Lâm",
     "path": "static/mp3/tromNhinNhau.mp3",
-    "isLike": false,
-    "time": "5:12"
+    "isLike": false
   },
   {
     "num": 4,
@@ -32,8 +29,7 @@
     "name": "Giã Biệt Sài Gòn",
     "band": "Phương Anh - Phương Ý",
     "path": "static/mp3/giaBietSaiGon.mp3",
-    "isLike": false,
-    "time": "10:39"
+    "isLike": false
   },
   {
     "num": 5,
@@ -41,8 +37,7 @@
     "name": "Lỡ Hẹn Với Dòng Lam",
     "band": "Thái Học",
     "path": "static/mp3/loHenVoiDongLam.mp3",
-    "isLike": false,
-    "time": "5:42"
+    "isLike": false
   },
   {
     "num": 6,
@@ -50,8 +45,7 @@
     "name": "LK Con Đường Xưa Em Đi",
     "band": "Như Quỳnh - Trường Vũ",
     "path": "static/mp3/lkConDuongXuaEmDi.mp3",
-    "isLike": false,
-    "time": "5:36"
+    "isLike": false
   },
   {
     "num": 7,
@@ -59,8 +53,7 @@
     "name": "LK - Sao Không Thấy Anh Về",
     "band": "Như Quỳnh - Trường Vũ",
     "path": "static/mp3/lkSaoKhongThayAnhVe.mp3",
-    "isLike": false,
-    "time": "5:29"
+    "isLike": false
   },
   {
     "num": 8,
@@ -68,8 +61,7 @@
     "name": "Cô Hàng Xóm",
     "band": "Quang Lê",
     "path": "static/mp3/coHangXom.mp3",
-    "isLike": false,
-    "time": "5:02"
+    "isLike": false
   },
   {
     "num": 9,
@@ -77,8 +69,7 @@
     "name": "Sương Trắng Miền Quê Ngoại",
     "band": "Quang Lê",
     "path": "static/mp3/suongTrangMienQueNgoai.mp3",
-    "isLike": false,
-    "time": "5:16"
+    "isLike": false
   },
   {
     "num": 10,
@@ -86,7 +77,6 @@
     "name": "Trăng Tàn Trên Hè Phố",
     "band": "Phương Anh - Phương Ý",
     "path": "static/mp3/trangTanTrenHePho.mp3",
-    "isLike": false,
-    "time": "5:29"
+    "isLike": false
   }
 ]
