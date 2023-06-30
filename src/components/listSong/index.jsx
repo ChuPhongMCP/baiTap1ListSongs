@@ -18,6 +18,7 @@ import IconRandomCheck from "../icon/randomCheck";
 import IconRepeatOne from "../icon/repeatOne";
 import { formatTime } from "../../helper";
 import { getRamdom } from "../../helper";
+import GetTimeSong from "./getTimeSong";
 
 function ListSong(props) {
   const { items } = props;
@@ -275,7 +276,7 @@ function ListSong(props) {
 
               <span className={styles.nameBand}>{song.band}</span>
 
-              <span className={styles.time}>{song.time}</span>
+              <span className={styles.time}><GetTimeSong path={song.path}/></span>
 
               <i
                 id={parseInt(song.num)}
