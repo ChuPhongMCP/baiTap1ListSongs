@@ -6,18 +6,17 @@ import React, {
   useCallback,
 } from "react";
 import styles from "./listSong.module.css";
-import IconPlay from "../icon/play";
-import IconPause from "../icon/Pause";
-import IconBackward from "../icon/backward";
-import IconForward from "../icon/forward";
+import IconPlay from "components/icon/play";
+import IconPause from "components/icon/Pause";
+import IconBackward from "components/icon/backward";
+import IconForward from "components/icon/forward";
 import PropTypes from "prop-types";
-import IconRandom from "../icon/random";
-import IconRepeatCheck from "../icon/repeatCheck";
-import IconRepeat from "../icon/repeat";
-import IconRandomCheck from "../icon/randomCheck";
-import IconRepeatOne from "../icon/repeatOne";
-import { formatTime } from "../../helper";
-import { getRamdom } from "../../helper";
+import IconRandom from "components/icon/random";
+import IconRepeatCheck from "components/icon/repeatCheck";
+import IconRepeat from "components/icon/repeat";
+import IconRandomCheck from "components/icon/randomCheck";
+import IconRepeatOne from "components/icon/repeatOne";
+import { formatTime, getRamdom } from "helper";
 import GetTimeSong from "./getTimeSong";
 
 function ListSong(props) {

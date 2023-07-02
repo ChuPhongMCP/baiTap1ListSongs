@@ -1,6 +1,6 @@
 import "./App.css";
-import ListSong from "./components/listSong";
-import songList from './data/music/music.json';
+import ListSong from "components/listSong";
+import songList from 'data/music/music.json';
 
 function App() {
   return (

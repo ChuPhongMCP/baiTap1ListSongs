@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-import { formatTime } from "../../helper";
+import { formatTime } from "helper";
 
 function GetTimeSong(props) {
   const { path } = props;
